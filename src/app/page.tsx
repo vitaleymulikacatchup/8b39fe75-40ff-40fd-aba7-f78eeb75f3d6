@@ -41,9 +41,9 @@ export default function Home() {
         title='Tokenomics'
         description='Our tokenomics are designed to promote growth and community engagement.'
         kpiItems={[
-          { value: '1M', description: 'Total Supply', icon: 'LucideIcon' },
-          { value: '500K', description: 'Circulating Supply', icon: 'LucideIcon' },
-          { value: '10%', description: 'Tax Rate', icon: 'LucideIcon' },
+          { value: '1M', description: 'Total Supply' },
+          { value: '500K', description: 'Circulating Supply' },
+          { value: '10%', description: 'Tax Rate' },
         ]}
       />
 
